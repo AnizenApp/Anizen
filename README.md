@@ -33,3 +33,6 @@ Uygulama, kullanıcıların en sevdikleri anime serilerini yüksek kalitede ve k
 * Kaldığın yerden devam et
 * Favorilere ekle
 * Yorum yap
+
+### İndir
+Anizen'i sayfanın başındaki "Download" butonuna veya buraya tıklayarak indirebilirsiniz.
