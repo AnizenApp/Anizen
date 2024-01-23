@@ -10,13 +10,13 @@
 
 
 ## Ekran Görüntüleri
-[<img src="screenshots/screenshot_1.jpg" width=160>](screenshots/screenshot_1.jpg)
-[<img src="screenshots/screenshot_02.jpg" width=160>](screenshots/screenshot_02.jpg)
-[<img src="screenshots/screenshot_03.jpg" width=160>](screenshots/screenshot_03.jpg)
-[<img src="screenshots/screenshot_04.jpg" width=160>](screenshots/screenshot_04.jpg)
-[<img src="screenshots/screenshot_05.jpg" width=160>](screenshots/screenshot_05.jpg)
-[<img src="screenshots/screenshot_06.jpg" width=160>](screenshots/screenshot_06.jpg)
-[<img src="screenshots/screenshot_07.jpg" width=160>](screenshots/screenshot_07.jpg)
-[<img src="screenshots/screenshot_08.jpg" width=160>](screenshots/screenshot_08.jpg)
-[<img src="screenshots/screenshot_09.jpg" width=405>](screenshots/screenshot_09.jpg)
-[<img src="screenshots/screenshot_10.jpg" width=405>](screenshots/screenshot_10.jpg)
+[<img src="screenshots/screenshot_1.png" width=160>](screenshots/screenshot_1.png)
+[<img src="screenshots/screenshot_02.png" width=160>](screenshots/screenshot_02.png)
+[<img src="screenshots/screenshot_03.png" width=160>](screenshots/screenshot_03.png)
+[<img src="screenshots/screenshot_04.png" width=160>](screenshots/screenshot_04.png)
+[<img src="screenshots/screenshot_05.png" width=160>](screenshots/screenshot_05.png)
+[<img src="screenshots/screenshot_06.png" width=160>](screenshots/screenshot_06.png)
+[<img src="screenshots/screenshot_07.png" width=160>](screenshots/screenshot_07.png)
+[<img src="screenshots/screenshot_08.png" width=160>](screenshots/screenshot_08.png)
+[<img src="screenshots/screenshot_09.png" width=405>](screenshots/screenshot_09.png)
+[<img src="screenshots/screenshot_10.png" width=405>](screenshots/screenshot_10.png)
