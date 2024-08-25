@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/AnizenApp/Anizen"><img src="app_icon.png" width="150"></a></p> 
 <h2 align="center"><b>Anizen</b></h2>
 <h4 align="center">Ücretsiz ve reklamsız bir anime izleme uygulaması</h4>
-<p align="center"><a href="https://drive.google.com/file/d/19o8-Or_6mig95qTT9kg_VdpBTAmkLmtz/view?usp=drive_link"><img src="download.png"></a></p> 
+<p align="center"><a href="https://bozkurtstudio.github.io/new-version.apk"><img src="download.png"></a></p> 
 <p align="center">
 <a href="https://github.com/AnizenApp/Anizen" alt="GitHub release"><img src="https://img.shields.io/badge/version-1.21-blue.svg" ></a>
 <a href="/LICENSE" alt="License: GPLv3"><img src="https://img.shields.io/badge/License-MIT-orange.svg"></a>
@@ -35,4 +35,4 @@ Uygulama, kullanıcıların en sevdikleri anime serilerini yüksek kalitede ve k
 * Yorum yap
 
 ## İndir
-Anizen'i sayfanın başındaki "Download" butonuna veya [buraya](https://drive.google.com/file/d/19o8-Or_6mig95qTT9kg_VdpBTAmkLmtz/view?usp=drive_link) tıklayarak indirebilirsiniz.
+Anizen'i sayfanın başındaki "Download" butonuna veya [buraya](https://bozkurtstudio.github.io/new-version.apk) tıklayarak indirebilirsiniz.
